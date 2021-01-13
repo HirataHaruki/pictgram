@@ -138,11 +138,17 @@ h1, h2 {
       margin-left: 20px;
     }
     
-    .unlike-btn {
+    .heart-black {
       width: 35px;
       height: 30px;
       margin-left: 20px;
-      color: red;
+    }
+    
+    .heart-red {
+      width: 35px;
+      height: 30px;
+      margin-left: 20px;
+      background-color: red;
     }
   }
 }
